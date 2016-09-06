@@ -1,0 +1,32 @@
+i;
+{
+  i = 24 ; 
+  SWITCH i
+  {
+     CASE 24 :
+     {
+        print i;
+     }
+    CASE 42:
+     {
+        print i;
+     }
+    CASE 100:
+     {
+        print i;
+     }
+    CASE 50:
+     {
+        print i;
+     }
+    CASE 75:
+     {
+        print i;
+     }
+     DEFAULT:
+    {
+        i = 34;
+        print i;
+    }
+  }
+}

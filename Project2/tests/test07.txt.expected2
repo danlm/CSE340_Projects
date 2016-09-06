@@ -1,0 +1,7 @@
+FIRST(S) = { a, b, c, d }
+FIRST(A) = { #, a, c, d }
+FIRST(B) = { b }
+FIRST(C) = { #, c }
+FIRST(D) = { #, d }
+
+
